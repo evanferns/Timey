@@ -1,0 +1,28 @@
+.start-page {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+}
+.start-page-header {
+  font-size: 72px;
+}
+
+.start-page-container {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+.start-page-button {
+  width: 25%;
+  height: 50px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #eef15d;
+  font-size: large;
+}
+
+.start-page-button:hover {
+  background-color: #f1f391;
+}
