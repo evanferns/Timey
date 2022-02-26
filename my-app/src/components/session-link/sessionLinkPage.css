@@ -1,0 +1,40 @@
+.heading {
+    color: white;
+}
+
+.back-btn {
+    margin-left: 2%;
+    margin-top: 1%;
+    width: 10%;
+    border: 3px solid yellow;
+    padding: 0.5px;
+    border-radius: 1.2rem;
+    background-color: yellow;
+}
+
+.back-heading {
+    font-weight: 300;
+    font-style: italic;
+}
+
+.box {
+    margin: auto;
+    width: 50%;
+    /* border: 3px solid green; */
+    padding: 10px;
+}
+
+.start-btn {
+    margin-left: 85%;
+    margin-top: 10%;
+    width: 12%;
+    border: 3px solid yellow;
+    padding: 0.5px;
+    border-radius: 1.2rem;
+    background-color: yellow;
+}
+
+.start-heading {
+    font-weight: 300;
+    font-style: italic;
+}
